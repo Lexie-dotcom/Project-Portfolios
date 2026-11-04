@@ -1,2 +1,4 @@
-# Project-Portfolios
-This is a Portfolio of all my completed Projects
+# Hi I'm Lexie
+I am studying Digital Forensics and Cybersecurity at TU Dublin.
+
+## Projects
