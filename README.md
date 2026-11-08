@@ -1,5 +1,6 @@
-# Hi I'm Lexie
-I am studying Digital Forensics and Cybersecurity at TU Dublin. Here are some notable projects I have completed during my studies.
+# Overview:
+Hi I'm Lexie,
+I am studying Digital Forensics and Cybersecurity at TU Dublin. Here are some notable projects I have completed during my studies:
 
 ## Projects
 ### Designing and Implementing a Proof of Concept Cloud Solution
